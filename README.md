@@ -3,13 +3,13 @@
 
 ▶ 姓  名：刘波                英 文 名：Lopo
 
-▶ 年  龄：24岁               毕 业 院 校：长沙职业技术学院
+▶ 年  龄：24岁               毕 业 院 校：湖南工商大学
 
 ▶ 性  别：男                   专    业：计算机应用技术
 
-▶ 籍  贯：湖南永州         学    历：大专
+▶ 籍  贯：湖南永州         学    历：本科
 
-▶ 联系方式：17322311020             电 子 邮 箱：982781738@qq.com
+▶ 联系方式：17322311020             电 子 邮 箱：lopo971020@icloud.com
 
 ---
 
@@ -17,14 +17,13 @@
 
 - 熟练掌握Python语言，遵循RestFul编码规范，能快速独立开发构建Web相关项目。
 - 熟练掌握Django、RestFrameWork 网络服务开发框架。
-- 熟悉后端分布式开发主流组件，Redis、RabbitMQ等。
-- 熟悉Linux、Nginx服务器、Docker容器管理部署操作。
-- 熟练使用UIAutomator2、Selenium、Appium等自动化测试框架。
+- 熟练掌握Java语言，能独立开发SSM后端项目
+- 熟悉Spring相关组件Context容器、Bean注入、AOP、Filter、Intercept
+- 熟悉后端分布式开发主流组件，Redis、RabbitMQ、S等。
 - 熟练掌握使用Request、Scrapy爬虫框架，曾参与项目爬虫开发。
 - 熟练使用正则表达式、xpath对数据数据筛选。
 - 掌握Vue，Axios，熟悉JavaScript、HTML、CSS前端相关技术。
 - 熟悉Mysql、Oracle数据库，并熟练使用SQL语句。
-- 熟悉软件测试基础理论知识、软件测试流程，能熟练编写测试用例，优化测试用例。
 - 熟练使用Fiddler、Charles等抓包工具及Postman接口测试工具。
 - 熟练使用UIAutomator2、Selenium、Appium等自动化测试框架并有实际项目经验。
 - 熟练使用Git，Jenkins，Xshell，Sqlmap，Adb等工具。
